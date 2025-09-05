@@ -5,6 +5,6 @@ A website intends to help Physics student to learn and solve quetions with visua
 Currently undergo planning step.
 
 Built by: 
-Hồ Anh Quân - G11 Cambridge curriculumn Vinshool
-Đỗ Hoàng Quân - G11 Cambridge curriculumn Vinshool
-Nguyễn Nguyên Phú - G11 Cambridge curriculumn Vinshool
+Hồ Anh Quân|
+Đỗ Hoàng Quân|
+Nguyễn Nguyên Phú| G11 Cambridge curriculumn Vinshool
